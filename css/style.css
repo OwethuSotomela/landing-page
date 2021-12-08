@@ -95,3 +95,7 @@ p{
 .menuText{
     width: 80%;
 }
+img {
+    border: 5px solid blue;
+    border-radius: 10px;
+  }
